@@ -9,6 +9,9 @@
 - **C# Backend**: Built using C# for efficient performance and cross-platform compatibility.
 - **User-Friendly**: Ideal for beginners and Bengali-speaking programmers.
 
+## Demo
+- Watch this video [Demo](https://www.facebook.com/share/p/o7kRWDvXHQGHF1A2) for better understanding
+
 ## Prerequisites
 
 To run **Bangla Lang**, you will need:
