@@ -34,7 +34,7 @@ To run **Bangla Lang**, you will need:
 ```
 
 This code will output "Hello world" to the console.
-More exampele in Examples folder
+More example in Examples folder
 
 ## Contributing
 
