@@ -14,7 +14,6 @@
 To run **Bangla Lang**, you will need:
 
 - .NET SDK (version 6.0 or higher)
-- A text editor or IDE (e.g., Visual Studio, VS Code)
 - Windows, macOS, or Linux operating system
 
 ## Installation
@@ -35,6 +34,7 @@ To run **Bangla Lang**, you will need:
 ```
 
 This code will output "Hello world" to the console.
+More exampele in Examples folder
 
 ## Contributing
 
