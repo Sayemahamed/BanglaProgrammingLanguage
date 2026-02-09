@@ -10,6 +10,7 @@
 - **User-Friendly**: Ideal for beginners and Bengali-speaking programmers.
 
 ## Demo
+
 - Watch this video [Demo](https://www.facebook.com/share/p/o7kRWDvXHQGHF1A2) for better understanding
 
 ## Prerequisites
@@ -22,14 +23,16 @@ To run **Bangla Lang**, you will need:
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Sayemahamed/BanglaProgrammingLanguage.git
    ```
-
 2. Navigate to the project directory:
+
    - install from the .MSI file in Release folder
 
 ### Example Code
+
 ```বাংলা
 পূর্ণ প্রধান ( ) {
     দেখাও( "Hello world" );
@@ -41,7 +44,7 @@ More example in Examples folder
 
 ## Contributing
 
-Working on **Bangla Lang 2.0** removed current code base. You are welcome to contribute there when code base made public 
+Working on **Bangla Lang 2.0** removed current code base. You are welcome to contribute there when code base made public. [Old code](https://github.com/Sayemahamed/bangla "v1 implementation in C#")
 
 ## Acknowledgments
 
